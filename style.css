@@ -1,7 +1,16 @@
 span {
     display: inline-block;
   }
-
+  body {
+    text-align: center;
+  }
+#mini-layout div {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 300px;
+    margin: 10px;
+}
   /* span {
     display: inline-block;
     background-color: lightblue;
